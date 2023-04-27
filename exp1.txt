@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello Meghesh. Sab badhiya?
+=======
+Hello world!
+Changes Made in exp 1 branch
+>>>>>>> exp1
